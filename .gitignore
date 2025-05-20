@@ -44,3 +44,7 @@ next-env.d.ts
 !.yarn/versions
 
 .contentlayer
+/.yarn/cache
+/.yarn/cache
+/.yarn/cache
+/.yarn/cache
